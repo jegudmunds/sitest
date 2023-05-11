@@ -16,10 +16,10 @@ sections:
       text: |-
         Markmið Stjarnvísindafélag Íslands er að stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræð.
 
-        <!--Custom spacing-->
-        <div class="mb-3"></div>
-        <!--GitHub Button JS-->
-        <script async defer src="https://buttons.github.io/buttons.js"></script>
+        # <!--Custom spacing-->
+        # <div class="mb-3"></div>
+        # <!--GitHub Button JS-->
+        # <script async defer src="https://buttons.github.io/buttons.js"></script>
     design:
       background:
         gradient_end: '#1976d2'
