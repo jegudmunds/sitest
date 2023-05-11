@@ -124,7 +124,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: Fréttir
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -151,7 +151,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Projects
+      title: Verkefni
       filters:
         folders:
           - project
@@ -175,14 +175,14 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Gallery
+  #     subtitle: ''
+  #     text: |-
+  #       {{< gallery album="demo" >}}
+  #   design:
+  #     columns: '1'
   - block: collection
     id: featured
     content:
