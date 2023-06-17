@@ -29,8 +29,8 @@ sections:
     content:
       title: Lög félagsins
       subtitle: My subtitle
-      text: 
-        1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti\u0003 The Icelandic Astronomical Society.)
+      text: >
+        1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
 
         2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
 
