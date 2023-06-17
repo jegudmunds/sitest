@@ -25,8 +25,8 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
- - block: markdown
-   content:
+  - block: markdown
+    content:
       title: My title
       subtitle: My subtitle
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
