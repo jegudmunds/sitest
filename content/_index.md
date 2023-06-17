@@ -30,7 +30,7 @@ sections:
       title: Lög félagsins
       subtitle: My subtitle
       text: 
-        1. Félagið heitir Stjarnvísindafélag Íslands. (Enskt heiti: The Icelandic Astronomical Society.)
+        1. Félagið heitir Stjarnvísindafélag Íslands.
 
     design:
       # See Page Builder docs for all section customization options.
