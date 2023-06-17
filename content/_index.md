@@ -27,6 +27,24 @@ sections:
         text_color_light: true
   - block: markdown
     content:
+      title: Stjórn félagsins
+      text: >
+        **Formaður:** Jón Emil Guðmundsson 
+        **Ritari:** Snævarr Guðmundsson
+        **Gjaldkeri:** Sævar Helgi Bragason
+
+        Endurskoðendur:
+        Þorsteinn Þorsteinsson
+        Þorsteinn Vilhjálmsson
+
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
+
+  - block: markdown
+    content:
       title: Lög félagsins
       subtitle: Síðast breytt 1. desember 2018
       text: >
