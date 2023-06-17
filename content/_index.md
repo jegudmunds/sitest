@@ -9,7 +9,7 @@ sections:
     content:
       title: Stjarnvísindafélag Íslands       
       image:
-        filename: si.png
+        filename: si2.png
       cta_note:
         label: The Icelandic Astronomical Society
 
