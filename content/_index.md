@@ -58,7 +58,7 @@ sections:
             7. Ákvörðun árgjalds.
             8. Önnur mál.            
 
-          Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
+            Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
 
         7. Starfsár félagsins og reikningsár skulu vera milli aðalfunda.
 
