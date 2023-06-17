@@ -8,6 +8,7 @@ sections:
   - block: hero
     content:
       title: Stjarnvísindafélag Íslands
+      subtitle: Insert text
       image:
         filename: si.png
       cta_note:
@@ -38,7 +39,7 @@ sections:
         **Endurskoðendur:**  Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson  
 
 
-          
+
 
         Dunhaga 5, 107 Reykjavík, Iceland  
 
