@@ -36,11 +36,14 @@ sections:
 
         3. Til þess að ná markmiðum sínum mun félagið meðal annars:
 
-        <ol type="a">
-          <li>Coffee</li>
-          <li>Tea</li>
-          <li>Milk</li>
-        </ol>
+            - Stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræði.
+            - Efla kynni íslenskra stjarnvísindamanna innbyrðis og við aðra áhugamenn um stjarnvísindi í landinu.
+            - Vera vettvangur fræðslu og skoðanaskipta um stjarnvísindaleg efni, meðal annars með því að halda ráðstefnur og umræðu- og fyrirlestrafundi og gefa út fréttabréf.
+            - Stuðla að auknum samskiptum íslenskra og erlendra stjarnvísindamanna, koma fram fyrir hönd félagsmanna á erlendum vettvangi og vera aðili að alþjóðasamtökum og alþjóðasamvinnu á sviði stjarnvísinda.
+            - Fylgjast með kennslu í stjörnufræði í íslenskum skólum og stuðla að framförum á því sviði.
+            - Beita sér fyrir aukinni almenningsfræðslu um stjarnvísindin og sögu þeirra.
+
+            
 
       
 
