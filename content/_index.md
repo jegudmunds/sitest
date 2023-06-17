@@ -30,7 +30,7 @@ sections:
       title: Lög félagsins
       subtitle: Síðast breytt 1. desember 2018
       text: >
-        Insert text
+        Lög félagsins eru sem hér segir:
 
           1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
 
@@ -279,10 +279,10 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+        Allar fyrirspurnir má senda á formann félagsins, Jón Emil Guðmundsson.
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
+      email: jegudmunds@hi.is
+      phone: 525 4625
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
@@ -296,7 +296,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/Twitter'
+          link: 'https://twitter.com/jegudmunds'
         # - icon: video
         #   icon_pack: fas
         #   name: Zoom Me
