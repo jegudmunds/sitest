@@ -27,9 +27,11 @@ sections:
         text_color_light: true
   - block: markdown
     content:
-      title: My title
-      subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      title: Lög félagsins
+      subtitle: 
+      text: 
+        1. Félagið heitir Stjarnvísindafélag Íslands. (Enskt heiti: The Icelandic Astronomical Society.)
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
