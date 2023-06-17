@@ -35,11 +35,7 @@ sections:
 
         **Gjaldkeri:** Sævar Helgi Bragason  
 
-        **Endurskoðendur:**  
-
-        Þorsteinn Þorsteinsson  
-
-        Þorsteinn Vilhjálmsson  
+        **Endurskoðendur:**  Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson  
 
     design:
       # See Page Builder docs for all section customization options.
