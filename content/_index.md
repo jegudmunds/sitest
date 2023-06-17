@@ -28,7 +28,8 @@ sections:
   - block: markdown
     content:
       title: Lög félagsins
-      subtitle: My subtitle
+      subtitle: >
+        Síðast breytt 1. desember 2018
       text: >
         1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
 
