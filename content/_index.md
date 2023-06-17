@@ -7,11 +7,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Stjarnvísindafélag Íslands      
+      title: Stjarnvísindafélag Íslands       
       image:
         filename: si.png
       cta_note:
-        label: >-
+        label: Insert text
 
       text: |-
         Markmið Stjarnvísindafélag Íslands er að stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræð.
