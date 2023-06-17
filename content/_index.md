@@ -28,7 +28,7 @@ sections:
   - block: markdown
     content:
       title: Lög félagsins
-      subtitle: 
+      subtitle: My subtitle
       text: 
         1. Félagið heitir Stjarnvísindafélag Íslands. (Enskt heiti: The Icelandic Astronomical Society.)
 
