@@ -49,7 +49,14 @@ sections:
 
         6. Aðalfundur hefur æðsta vald í málefnum félagsins. Hann skal haldinn í nóvember eða desember ár hvert og til hans boðað bréflega með að minnsta kosti viku fyrirvara. Dagskrá aðalfundar skal vera sem hér segir:            
 
-            
+            1. Kosning fundarstjóra og ritara.
+            2. Skýrsla stjórnar flutt.
+            3. Endurskoðaðir reikningar lagðir fram til afgreiðslu.
+            4. Lagabreytingar.
+            5. Kosning stjórnarmanna.
+            6. Kosning tveggja skoðunarmanna reikninga til eins árs.
+            7. Ákvörðun árgjalds.
+            8. Önnur mál.            
 
       
 
