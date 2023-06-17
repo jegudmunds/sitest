@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: Stjarnvísindafélag Íslands
-      subtitle: Insert text
+      subtitle: Insert text sdf asdf
       image:
         filename: si.png
       cta_note:
