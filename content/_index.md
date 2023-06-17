@@ -37,6 +37,10 @@ sections:
 
         **Endurskoðendur:**  Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson  
 
+        Dunhaga 5, 107 Reykjavík, Iceland  
+
+        Kt: 710112-1500
+
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
