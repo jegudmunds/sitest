@@ -34,6 +34,14 @@ sections:
 
         2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
 
+        3. Til þess að ná markmiðum sínum mun félagið meðal annars:
+
+        <ol type="a">
+          <li>Coffee</li>
+          <li>Tea</li>
+          <li>Milk</li>
+        </ol>
+
       
 
     design:
