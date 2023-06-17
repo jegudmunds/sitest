@@ -58,17 +58,14 @@ sections:
             7. Ákvörðun árgjalds.
             8. Önnur mál.            
 
-        Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
+          Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
 
         7. Starfsár félagsins og reikningsár skulu vera milli aðalfunda.
 
         8. Lagabreytingar geta aðeins orðið á aðalfundi og skulu tillögur þar að lútandi sendar út með fundarboði aðalfundar. Lagabreytingar öðlast því aðeins gildi að þær hafi hlotið að minnsta kosti 2/3 greiddra atkvæða.
 
         (Lögin voru upphaflega samþykkt á stofnfundi félagsins 2. desember 1988. Þeim var lítillega breytt (4. og 6. grein) á aðalfundi 8. desember 2007 og aftur (6. grein) á aðalfundi 1. desember 2018.)
-
-
-      
-
+  
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
