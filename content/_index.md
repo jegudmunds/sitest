@@ -294,7 +294,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact
+      title: Hafa samband
       subtitle:
       text: |-
         Allar fyrirspurnir má senda á formann félagsins, Jón Emil Guðmundsson.
