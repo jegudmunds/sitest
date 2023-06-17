@@ -43,6 +43,12 @@ sections:
             - Fylgjast með kennslu í stjörnufræði í íslenskum skólum og stuðla að framförum á því sviði.
             - Beita sér fyrir aukinni almenningsfræðslu um stjarnvísindin og sögu þeirra.
 
+        4. Félagar geta orðið allir þeir sem lokið hafa háskólaprófi í stjarnvísindum eða öðrum skyldum greinum. Þeir sem óska að gerast félagar skulu sækja um það til stjórnar. Rísi ágreiningur um aðild að félaginu, sker aðalfundur úr.
+
+        5. Stjórn félagsins skal skipuð þremur mönnum. Hver stjórnarmaður er kosinn til tveggja ára í senn. Formaður er kosinn sérstaklega, en stjórnin skiptir sjálf með sér verkum að öðru leyti. Skal formaður kosinn annað árið, en hitt árið skal kjósa tvo stjórnarmenn. Kosningarnar fara fram á aðalfundi.
+
+        6. Aðalfundur hefur æðsta vald í málefnum félagsins. Hann skal haldinn í nóvember eða desember ár hvert og til hans boðað bréflega með að minnsta kosti viku fyrirvara. Dagskrá aðalfundar skal vera sem hér segir:            
+
             
 
       
