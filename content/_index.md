@@ -32,39 +32,39 @@ sections:
       text: >
         Insert text
 
-        1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
+          1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
 
-        2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
+          2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
 
-        3. Til þess að ná markmiðum sínum mun félagið meðal annars:
+          3. Til þess að ná markmiðum sínum mun félagið meðal annars:
 
-            - Stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræði.
-            - Efla kynni íslenskra stjarnvísindamanna innbyrðis og við aðra áhugamenn um stjarnvísindi í landinu.
-            - Vera vettvangur fræðslu og skoðanaskipta um stjarnvísindaleg efni, meðal annars með því að halda ráðstefnur og umræðu- og fyrirlestrafundi og gefa út fréttabréf.
-            - Stuðla að auknum samskiptum íslenskra og erlendra stjarnvísindamanna, koma fram fyrir hönd félagsmanna á erlendum vettvangi og vera aðili að alþjóðasamtökum og alþjóðasamvinnu á sviði stjarnvísinda.
-            - Fylgjast með kennslu í stjörnufræði í íslenskum skólum og stuðla að framförum á því sviði.
-            - Beita sér fyrir aukinni almenningsfræðslu um stjarnvísindin og sögu þeirra.
+              - Stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræði.
+              - Efla kynni íslenskra stjarnvísindamanna innbyrðis og við aðra áhugamenn um stjarnvísindi í landinu.
+              - Vera vettvangur fræðslu og skoðanaskipta um stjarnvísindaleg efni, meðal annars með því að halda ráðstefnur og umræðu- og fyrirlestrafundi og gefa út fréttabréf.
+              - Stuðla að auknum samskiptum íslenskra og erlendra stjarnvísindamanna, koma fram fyrir hönd félagsmanna á erlendum vettvangi og vera aðili að alþjóðasamtökum og alþjóðasamvinnu á sviði stjarnvísinda.
+              - Fylgjast með kennslu í stjörnufræði í íslenskum skólum og stuðla að framförum á því sviði.
+              - Beita sér fyrir aukinni almenningsfræðslu um stjarnvísindin og sögu þeirra.
 
-        4. Félagar geta orðið allir þeir sem lokið hafa háskólaprófi í stjarnvísindum eða öðrum skyldum greinum. Þeir sem óska að gerast félagar skulu sækja um það til stjórnar. Rísi ágreiningur um aðild að félaginu, sker aðalfundur úr.
+          4. Félagar geta orðið allir þeir sem lokið hafa háskólaprófi í stjarnvísindum eða öðrum skyldum greinum. Þeir sem óska að gerast félagar skulu sækja um það til stjórnar. Rísi ágreiningur um aðild að félaginu, sker aðalfundur úr.
 
-        5. Stjórn félagsins skal skipuð þremur mönnum. Hver stjórnarmaður er kosinn til tveggja ára í senn. Formaður er kosinn sérstaklega, en stjórnin skiptir sjálf með sér verkum að öðru leyti. Skal formaður kosinn annað árið, en hitt árið skal kjósa tvo stjórnarmenn. Kosningarnar fara fram á aðalfundi.
+          5. Stjórn félagsins skal skipuð þremur mönnum. Hver stjórnarmaður er kosinn til tveggja ára í senn. Formaður er kosinn sérstaklega, en stjórnin skiptir sjálf með sér verkum að öðru leyti. Skal formaður kosinn annað árið, en hitt árið skal kjósa tvo stjórnarmenn. Kosningarnar fara fram á aðalfundi.
 
-        6. Aðalfundur hefur æðsta vald í málefnum félagsins. Hann skal haldinn í nóvember eða desember ár hvert og til hans boðað bréflega með að minnsta kosti viku fyrirvara. Dagskrá aðalfundar skal vera sem hér segir:            
+          6. Aðalfundur hefur æðsta vald í málefnum félagsins. Hann skal haldinn í nóvember eða desember ár hvert og til hans boðað bréflega með að minnsta kosti viku fyrirvara. Dagskrá aðalfundar skal vera sem hér segir:            
 
-            1. Kosning fundarstjóra og ritara.
-            2. Skýrsla stjórnar flutt.
-            3. Endurskoðaðir reikningar lagðir fram til afgreiðslu.
-            4. Lagabreytingar.
-            5. Kosning stjórnarmanna.
-            6. Kosning tveggja skoðunarmanna reikninga til eins árs.
-            7. Ákvörðun árgjalds.
-            8. Önnur mál.            
+              1. Kosning fundarstjóra og ritara.
+              2. Skýrsla stjórnar flutt.
+              3. Endurskoðaðir reikningar lagðir fram til afgreiðslu.
+              4. Lagabreytingar.
+              5. Kosning stjórnarmanna.
+              6. Kosning tveggja skoðunarmanna reikninga til eins árs.
+              7. Ákvörðun árgjalds.
+              8. Önnur mál.            
 
-            Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
+              Aðalfundur telst löglegur ef löglega er til hans boðað. Á fundinum ræður einfaldur meirihluti úrslitum nema annað sé tekið fram í félagslögum.
 
-        7. Starfsár félagsins og reikningsár skulu vera milli aðalfunda.
+          7. Starfsár félagsins og reikningsár skulu vera milli aðalfunda.
 
-        8. Lagabreytingar geta aðeins orðið á aðalfundi og skulu tillögur þar að lútandi sendar út með fundarboði aðalfundar. Lagabreytingar öðlast því aðeins gildi að þær hafi hlotið að minnsta kosti 2/3 greiddra atkvæða.
+          8. Lagabreytingar geta aðeins orðið á aðalfundi og skulu tillögur þar að lútandi sendar út með fundarboði aðalfundar. Lagabreytingar öðlast því aðeins gildi að þær hafi hlotið að minnsta kosti 2/3 greiddra atkvæða.
 
         (Lögin voru upphaflega samþykkt á stofnfundi félagsins 2. desember 1988. Þeim var lítillega breytt (4. og 6. grein) á aðalfundi 8. desember 2007 og aftur (6. grein) á aðalfundi 1. desember 2018.)
   
