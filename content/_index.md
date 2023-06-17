@@ -29,17 +29,17 @@ sections:
     content:
       title: Stjórn félagsins
       text: >
-        **Formaður:** Jón Emil Guðmundsson 
+        **Formaður:** Jón Emil Guðmundsson  
 
-        **Ritari:** Snævarr Guðmundsson
+        **Ritari:** Snævarr Guðmundsson  
 
-        **Gjaldkeri:** Sævar Helgi Bragason
+        **Gjaldkeri:** Sævar Helgi Bragason  
 
-        **Endurskoðendur:**
+        **Endurskoðendur:**  
 
-        Þorsteinn Þorsteinsson
+        Þorsteinn Þorsteinsson  
 
-        Þorsteinn Vilhjálmsson
+        Þorsteinn Vilhjálmsson  
 
     design:
       # See Page Builder docs for all section customization options.
