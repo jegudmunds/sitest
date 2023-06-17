@@ -64,6 +64,7 @@ sections:
 
         8. Lagabreytingar geta aðeins orðið á aðalfundi og skulu tillögur þar að lútandi sendar út með fundarboði aðalfundar. Lagabreytingar öðlast því aðeins gildi að þær hafi hlotið að minnsta kosti 2/3 greiddra atkvæða.
 
+       (Lögin voru upphaflega samþykkt á stofnfundi félagsins 2. desember 1988. Þeim var lítillega breytt (4. og 6. grein) á aðalfundi 8. desember 2007 og aftur (6. grein) á aðalfundi 1. desember 2018.)
   
     design:
       # See Page Builder docs for all section customization options.
