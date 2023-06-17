@@ -11,7 +11,7 @@ sections:
       image:
         filename: si.png
       cta_note:
-        label: Insert text
+        label: The Icelandic Astronomical Society
 
       text: |-
         Markmið Stjarnvísindafélag Íslands er að stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræð.
