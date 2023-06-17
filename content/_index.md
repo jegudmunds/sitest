@@ -31,7 +31,9 @@ sections:
       subtitle: My subtitle
       text: 
         1. Félagið heitir Stjarnvísindafélag Íslands. asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf asdasdad asdf sdf sdf asdf asdf 
+
         2. Insert text
+        
         3. Insert text
 
     design:
