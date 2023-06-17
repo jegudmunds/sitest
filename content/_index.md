@@ -30,11 +30,11 @@ sections:
       title: Lög félagsins
       subtitle: My subtitle
       text: 
-        1. Félagið heitir Stjarnvísindafélag Íslands \(Enskt heiti: The Icelandic Astronomical Society.\)
+        1. Félagið heitir Stjarnvísindafélag Íslands \(Enskt heiti\: The Icelandic Astronomical Society.\)
 
         2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
 
-        3. Til þess að ná markmiðum sínum mun félagið meðal annars:
+        3. Til þess að ná markmiðum sínum mun félagið meðal annars\:
 
     design:
       # See Page Builder docs for all section customization options.
