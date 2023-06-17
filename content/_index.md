@@ -7,8 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Stjarnvísindafélag Íslands
-      subtitle: Insert text sdf asdf
+      title: Stjarnvísindafélag Íslands      
       image:
         filename: si.png
       cta_note:
