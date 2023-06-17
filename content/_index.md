@@ -30,6 +30,8 @@ sections:
       title: Lög félagsins
       subtitle: Síðast breytt 1. desember 2018
       text: >
+        Insert text
+
         1. Félagið heitir Stjarnvísindafélag Íslands (Enskt heiti: The Icelandic Astronomical Society.)
 
         2. Markmið félagsins er að efla stjarnvísindi á Íslandi.
