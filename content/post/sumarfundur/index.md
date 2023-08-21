@@ -48,6 +48,15 @@ print('hello')
 
 - Uppfærð vefsíða, Facebook, og google groups fyrir póstlista
 - Fyrirlestrarröð fyrir almenning næsta skólaár
+- Sögunefnd og upptökur viðtala
+- Sjónauki á þaki Árnagarðs
+- Geimvísindi og geimiðnaður á Íslandi
+- Nýir félagsmenn og félagaskrá
+- Orðasafn og orðanefnd
+- Tekjur og innheimta félagsgjalda
+- Fundargerðir
+- Lagabreytingar?
+- Önnur mál
 
 ## Fundargerð
 
