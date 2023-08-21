@@ -61,6 +61,8 @@ print('hello')
 
 Add text
 
+{{% staticref "uploads/Sumarfundur2023.pdf" %}}Download my CV{{% /staticref %}}
+
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
 Fjarfundur Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
