@@ -72,7 +72,7 @@ Hugsanleg umræðuefni:
 JEG hóf fundinn kl. 20:05 með því að leggja fram tillögurnar að fundarefni:
 Tillaga að dagskrá. Ýmis atriði sjá glæru.
 
-### 20:08 -- Uppfærð vefsíða
+### Uppfærð vefsíða -- 20:08
 JEG ræddi núverandi síðu, uppsetningu og efni. Og framtíðarsýn.
 EHG og SG voru sammála að það þyrfti að lagfæra.
 Hver geymir síðuna? Enn óvissa
