@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Þorsteinn Sæmundsson'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -57,8 +57,7 @@ print('hello')
 - Lagabreytingar?
 - Önnur mál
 
-## Fundargerð
-
+## Fundargerð (rituð af Snævarri Guðmundssyni)
 
 Fjarfundur Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
 Mættir á skjá: Jón Emil Guðmundsson (JEG), Kári Helgason (KH), Sigríður Kristjánsdóttir (SK), Guðmundur K. Stefánsson (GKS), Einar H. Guðmundsson (EHG), Sævar H. Bragason (SHB) og Snævarr Guðmundsson (SG). Þorsteinn Vilhjálmsson mætti kl. 21:06.
