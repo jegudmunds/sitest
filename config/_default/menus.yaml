@@ -14,7 +14,7 @@ main:
     url: '#projects'
     weight: 30
   - name: Lög
-    url: '#talks'
+    url: '#log'
     weight: 40
   # - name: Publications
   #   url: '#featured'

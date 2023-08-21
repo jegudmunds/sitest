@@ -51,6 +51,7 @@ sections:
 
 
   - block: markdown
+    id: log
     content:
       title: Lög félagsins
       subtitle: Síðast breytt 1. desember 2018

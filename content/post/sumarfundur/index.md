@@ -1,5 +1,5 @@
 ---
-title: Sumarfundur SÍ
+title: Sumarfundur 2023
 subtitle: Umræður um ýmis málefni tengd SÍ --- stillum saman strengi fyrir komandi verkefni
 
 # Summary for listings and search engines
