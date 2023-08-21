@@ -57,6 +57,10 @@ print('hello')
 - Lagabreytingar?
 - Önnur mál
 
+## Glærur
+
+Eftirfarandi [glærur]{{Sumarfundur2023.pdf}} voru sýndar á meðan spjalli stóð.
+
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
 Fjarfundur Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
