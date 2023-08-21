@@ -22,13 +22,14 @@ organizations:
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Undanfarin ár hafa rannsóknir mínar mest megnis tengst mælingum á örbylgjukliðnum --- elsta ljósinu í alheiminum. Ég vinn líka við að þróa að  
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Stjarneðlisfræði 
+  - Heimsfræði
+  - Tækniþróun fyrir rannsóknir í stjarneðlisfræði
+  - Hönnun sjónauka
 
 # Education to show in About widget
 education:
