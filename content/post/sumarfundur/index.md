@@ -59,7 +59,7 @@ print('hello')
 
 ## Glærur
 
-Eftirfarandi [glærur]{{<relref "Sumarfundur2023.pdf">}} voru sýndar á meðan spjalli stóð.
+Eftirfarandi [glærur]{{<relref Sumarfundur2023.pdf>}} voru sýndar á meðan spjalli stóð.
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
