@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: Sumarfundur SÍ
+subtitle: Umræður um ýmis málefni tengd SÍ
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Við héldum léttan fund á Zoom þar sem við ræddum ýmis málefni tengd Stjarnvísindafélagi Íslands.
 
 # Link this post with a project
 projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
+date: '2023-06-21T00:00:00Z'
 
 # Date updated
-lastmod: '2020-12-13T00:00:00Z'
+lastmod: '2023-06-21T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -45,7 +45,7 @@ categories:
 import libr
 print('hello')
 ```
-
+<!-- 
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
@@ -107,4 +107,4 @@ Wowchemy and its templates come with **automatic day (light) and night (dark) mo
 
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
-Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license.
+Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-themes/blob/master/LICENSE.md) license. -->
