@@ -1,6 +1,6 @@
 ---
 title: Sumarfundur SÍ
-subtitle: Umræður um ýmis málefni tengd SÍ
+subtitle: Umræður um ýmis málefni tengd SÍ --- stillum saman strengi fyrir komandi verkefni
 
 # Summary for listings and search engines
 summary: Við héldum léttan fund á Zoom þar sem við ræddum ýmis málefni tengd Stjarnvísindafélagi Íslands.
@@ -38,10 +38,12 @@ categories:
   - Fundir
 ---
 
-```python
+<!-- ```python
 import libr
 print('hello')
 ```
+ -->
+
 
 ## Umræðuefni
 
@@ -59,9 +61,7 @@ print('hello')
 
 ## Glærur
 
-Add text
-
-{{% staticref "uploads/Sumarfundur2023.pdf" %}}Download my CV{{% /staticref %}}
+{{% staticref "uploads/Sumarfundur2023.pdf" %}}Glærur sem farið var yfir á fundi má nálgast hér.{{% /staticref %}}
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
