@@ -65,13 +65,21 @@ print('hello')
 
 ### Mættir
 ☆Guðmundur Kári Stefánsson (GKS)
+
 ☆Jón Emil Guðmundsson (JEG)
+
 Kári Helgason (KH)
+
 Þórir Sigurðsson (ÞS)
+
 Guðlaugur jóhannesson (GJ)
+
 Páll Jakobsson (PJ)
+
 Sævar Helgi Bragason (SHB)
+
 ☆Snævarr Guðmundsson (SG)
+
 ☆Einar H. Guðmundsson (EHG)
 
 ☆ á fjarfundi
