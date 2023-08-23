@@ -84,6 +84,26 @@ Sævar Helgi Bragason (SHB)
 
 ☆ á fjarfundi
 
+### 1. Kosning fundarstjóra og ritara
+
+KH hóf fundinn kl. 20:11. Fundarstjóri og ritari valdir. KH fundarstjóri, SG ritari.
+
+### 2. Skýrsla stjórnar
+
+KH rakti markmið Stjarnvísindafélagsins (SVFÍ), eins og lýst er á heimasíðu, og síðan hvað hefði áorkast á árinu. Snemma á árinu hélt Ása Skúladóttir erindi um dvergstjörnuþokur. Annað erindi var kynning á JWST; SHB og KH kynntu, 50-70 manns mættu. Búinn að vera miðpunktur.
+
+Lawrence Krauss með Barry Barish Nóbelsverðlaunahafa héltu lítt auglýst erindi í Reykjavík, Ekki auglýst vegna þess að LK var víst staðinn að kynferðisáreitni. 50-70 manns mættu.
+
+GKS, valinn NHFP fellows árið 2022, mjög mikil viðurkenning. Getur verið að GKS fái prófessorstöðu í Amsterdam.
+
+NOT-sjónaukinn 7-10. júní 2022 vegna Jóhannes Andersen sem lést árið 2020.
+
+Námsleið í kennilegri eðlisfræði, samstarfsverkefni HÍ og Norrænu rannsóknastofnunarinnar.
+
+### 3. Skoðaðir reikningar
+
+SHB rakti reikninga ársins. >380 000 kr á reikning. (sjá reikninga). Skoðunarmaður reikninga samþykkir ekki uppgjör og óskar frekari upplýsinga. Eru félagar samþykkir reikning, já. Allir samþykkir.
+
 
 
 <!--
