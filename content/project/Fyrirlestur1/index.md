@@ -1,19 +1,19 @@
 ---
-title: Fyrirlestur 1
+title: Stjarnvísindi á Suðurskautslandinu
 summary: Fyrirlestur um stjarnvísindi á Suðurskautslandinu
 tags:
   - Fyrirlestur
 date: '2023-08-13T00:00:00Z'
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Sasha Rahlin fyrir framan SPT
   focal_point: Smart
 
 links:
   - icon: twitter
     icon_pack: fab
     name: Follow
-    url: https://twitter.com/jegudmunds
+    url: https://twitter.com/sasharahlin
 url_code: ''
 url_pdf: ''
 url_slides: ''
@@ -29,7 +29,12 @@ slides: ""
 
 ### Stjarnvísindi frá Suðurskautslandinu
 
-Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um 
+Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um stjarnvísindi frá Suðurskautslandinu
+
+Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
+
+Öll velkomin
+
 
 ### Ágrip á ensku
 
