@@ -321,7 +321,7 @@ sections:
       contact_links:
         - icon: twitter
           icon_pack: fab
-          name: DM Me
+          name: Stjarnvísindafélagið á Twitter
           link: 'https://twitter.com/jegudmunds'
         # - icon: video
         #   icon_pack: fas
