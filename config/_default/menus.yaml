@@ -10,7 +10,7 @@ main:
   - name: Fréttir
     url: '#posts'
     weight: 20
-  - name: Verkefni
+  - name: Fyrirlestraröð
     url: '#projects'
     weight: 30
   - name: Lög
