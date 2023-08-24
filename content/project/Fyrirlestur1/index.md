@@ -3,7 +3,7 @@ title: Fyrirlestur 1
 summary: An example of using the in-built project page.
 tags:
   - Fyrirlestur
-date: '2023-09-13T00:00:00Z'
+date: '2023-08-13T00:00:00Z'
 
 image:
   caption: Photo by rawpixel on Unsplash
