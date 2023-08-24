@@ -1,5 +1,5 @@
 ---
-title: Example Project
+title: Fyrirlestur 2
 summary: An example of using the in-built project page.
 tags:
   - Fyrirlestur
