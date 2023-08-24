@@ -241,8 +241,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-      #   - name: Deep Learning
-      #     tag: Deep Learning
+        - name: Fyrirlestur
+          tag: Fyrirlestur
       #   - name: Other
       #     tag: Demo
     design:

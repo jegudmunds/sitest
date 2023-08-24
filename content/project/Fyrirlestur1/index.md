@@ -2,7 +2,7 @@
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
-  - Deep Learning
+  - Fyrirlestur
 date: '2023-09-13T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
