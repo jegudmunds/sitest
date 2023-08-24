@@ -227,7 +227,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: Fyrirlestraröð
+      title: Fyrirlestrar og kynningar
       filters:
         folders:
           - project
