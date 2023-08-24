@@ -1,6 +1,6 @@
 ---
 title: Stjarnvísindi á Suðurskautslandinu
-summary: Fyrirlestur um stjarnvísindi á Suðurskautslandinu
+summary: Sasha Rahlin heldur erindi
 tags:
   - Fyrirlestur
 date: '2023-08-13T00:00:00Z'
