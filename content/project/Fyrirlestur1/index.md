@@ -34,6 +34,8 @@ Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um stjarn
 
 Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
 
+Erindið verður haldið á ensku.
+
 Öll velkomin!
 
 
