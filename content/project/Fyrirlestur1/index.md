@@ -29,8 +29,8 @@ slides: ""
 
 ### Stjarnvísindi frá Suðurpólnum
 
-Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands kynna:
-Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um stjarnvísindi frá Suðurpólnum.
+_Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands kynna:_
+Stjarnvísindi frá Suðurpólnum. Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi.
 
 Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
 
