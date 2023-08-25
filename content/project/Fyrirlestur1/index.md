@@ -1,12 +1,12 @@
 ---
-title: Stjarnvísindi á Suðurskautslandinu
+title: Stjarnvísindi á Suðurspólnum
 summary: Sasha Rahlin heldur erindi
 tags:
   - Fyrirlestur
 date: '2023-08-13T00:00:00Z'
 
 image:
-  caption: Sasha Rahlin fyrir framan SPT
+  caption: Sasha Rahlin fyrir framan Suðurpólssjónaukann (SPT)
   focal_point: Smart
 
 links:
@@ -27,16 +27,21 @@ url_video: ''
 slides: ""
 ---
 
-### Stjarnvísindi frá Suðurskautslandinu
+### Stjarnvísindi frá Suðurpólnum
 
-Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um stjarnvísindi frá Suðurskautslandinu
+Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands kynna:
+Sasha Rahlin, vísindamaður við University of Chicagao heldur erindi um stjarnvísindi frá Suðurpólnum.
 
 Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
 
-Öll velkomin
+Öll velkomin!
 
 
-### Ágrip á ensku
+### Ágrip á íslensku (þýðing)
+
+Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, gerir okkur kleift að rannsaka elsta ljósið í alheiminum --- enduróm frá upphafi alheimsins. Í þessum erindi, mun Sasha Rahlin fjalla um tvo sjónauka sem hafa rannsakað upphaf alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem setur svo sannarlega mark sitt á Suðurpólinn.
+
+### Ágrip á ensku (upprunalega útgáfa)
 
 The continent of Antarctica, and particularly the South Pole, provides one of the best sites on earth for studying the cosmos with millimeter-wave telescopes. The high and dry site and extremely stable atmosphere enables idea conditions for year-round observations of the universe beyond our own galaxy. In this talk, I will give an overview of two instruments that have made use of these unique conditions to study the cosmic microwave background (CMB) radiation left over from the Big Bang. The first is the SPIDER balloon-borne telescope, flown in 2015 and 2022, and designed to study the larger-scale features in the CMB to search for signatures of primordial gravitational waves. The second is the South Pole Telescope, commissioned in 2007 and currently housing its third generation camera SPT-3G, designed to study the smaller-scale features in the CMB along with a wide variety of compact and transient astrophysical phenomena. Together, these two instruments bring us closer to understanding the origin and evolution of our universe. I will also provide some insight into what it's like to live and work in such a unique and remote environment.
 
