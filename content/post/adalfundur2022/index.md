@@ -104,6 +104,18 @@ SHB rakti reikninga ársins. >380 000 kr á reikning. (sjá reikninga). Skoðuna
 
 _Hér vill ritari benda stjórnarmönnum á að aðalfundi er ekki lokið nema að lagt hafi verið fram yfirfarið samþykkt (endurskoðað) reikningsuppgjör. Hlutverk aðalfundar er að ljúka „starfsári“ og gera upp. Ekki á að skilja eftir ókláruð mál. Reikningar eru hluti af því ferli. Þegar staða af þessu tagi kemur upp, sem nú er, verður að auglýsa aukaaðalfund þar sem reikningsuppgjör er aftur kynnt til samþykkis eða til að koma á framfæri frekari athugasemdir. Gefinn er ákveðinn tími, yfirleitt stuttur tími fyrir stjórn að ganga frá sínum málum. Ekki á að óska eftir að félagar samþykki óuppgerða reikninga. Þó að SVFÍ sé lítið félag á að fylgja fundarsköpum. Best er að boða ekki til aðalfundar fyrr en búið er að gera upp og endurskoða reikninga, til þess að forðast að kalla þurfi til aukaaðalfundar._
 
+### Lagabreytingar
+
+Engar tillögur bárust. EHG  minnti á að lagabreytingar verði að boðast með fyrirvara. Það stendur í lögunum.
+
+### Kosning stjórnarmanna
+
+Annað hvert ár er kosinn formaður, hin árin gjaldkeri og ritari. KH ætlar að stíga til hliðar en gerir að tillögu að JEG taki við formannsstöðu. Var það samþykkt með öllum greiddum atkvæðum.
+
+###  Kosning endurskoðenda -> skoðunarmenn reikninga
+
+EHS: Endurskoðandi er lögverndað starfsheiti. Á að vera skoðunarmenn reikninga. Núverandi skoðunarmenn eru Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson en lagt til að gefa þeim síðarnefnda frí frá þessum störfum. Við tekur GJ.
+
 <!--
 Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
 Mættir á skjá: Jón Emil Guðmundsson (JEG), Kári Helgason (KH), Sigríður Kristjánsdóttir (SK), Guðmundur K. Stefánsson (GKS), Einar H. Guðmundsson (EHG), Sævar H. Bragason (SHB) og Snævarr Guðmundsson (SG). Þorsteinn Vilhjálmsson mætti kl. 21:06.
