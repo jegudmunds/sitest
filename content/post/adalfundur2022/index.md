@@ -122,7 +122,19 @@ Almennt félagsgjald 3000 kr, námsmannagjald 1500 kr. Tillaga að félagar erle
 
 ### Önnur mál
 
+a) Engir nýir félagar voru teknir inn þetta árið, því engar uppástungur um þá komu fram. Venja er að bjóða ungum nemendum í félagið. EHG spyr um litakóða á glæru sem KH birti (grænn hálitur á nöfnum). KH hafði rennt yfir hverjir félaganna væru virkir eða óvirkir. Til þess að velta því upp hvort rétt væri að rukka óvirka félaga.
 
+b) Sögunefnd um viðtöl við stjarnvísindafólk. KH bað EHG að taka við og segja frá. Búið að taka viðtöl við ÞS, ÞV, EJ, EHG, GB og L Th. EHG segir öll viðtöl hafa verið snyrt til  (forunnin) og sent viðmælendum. EHG sagði að öll viðtöl verði tilbúin mjög fljótlega en ekki um áramótin eins og til stóð. eftir að þau hafi verið samþykkt muni þau verða komin í geymslu.
+
+EHG segist ólíklega sjálfur koma að fleiri viðtölum, þ.e. af eigin frumkvæði, en býður gjaldlaust sig fram sem ráðgjafi. Mikil vinna og tímafrek sem felst í viðtölunum. Þurfi að mögulega að leita fjárstyrkja í áframhald viðtala. Þakkir til Höllu Einarsdóttur fyrir vinnu sína. KH talaði um framlag Þorsteins Sæmundssonar (ÞS) í þetta verkefni, sem vildi aðeins svara spurningum en ekki láta taka viðtal.
+
+KH lagði til að SVFÍ myndi greiða Höllu eitthvað fyrir  vinnuframlag hennar, í það minnsta til þess að sýna þakklæti sitt. EHG taldi að eftirvinnsla eftir hvert viðtal tæki 3 daga. Ákveðið að greiða henni 200 000 kr. sem þakklætisvott fyrir vinnuframlag sitt.
+
+Áfram spunnust umræður um styrkjamöguleika, EHG lagði til að sækja um í sjóð Þorsteins Vilhjálmssonar og konu hans, fyrir næstu úthlutun. Sjóðurinn er með heimasíðu.
+
+Hefðbundnum dagskrárliðum lokið EHG þakkaði KH fyrir síðustu fjögur árin og bauð JEG velkominn til starfa sem formann SVFÍ.
+
+c) Erindi Jóns E. Guðmundssonar.
 
 <!--
 Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
