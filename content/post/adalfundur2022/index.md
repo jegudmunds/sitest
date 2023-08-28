@@ -85,6 +85,24 @@ Sævar Helgi Bragason (SHB)
 ☆ á fjarfundi
 
 
+### Skýrsla stjórnar
+
+KH rakti markmið Stjarnvísindafélagsins (SVFÍ), eins og lýst er á heimasíðu, og síðan hvað hefði áorkast á árinu. Snemma á árinu hélt Ása Skúladóttir erindi um dvergstjörnuþokur. Annað erindi var kynning á JWST; SHB og KH kynntu, 50-70 manns mættu. Búinn að vera miðpunktur. 
+
+Lawrence Krauss með Barry Barish Nóbelsverðlaunahafa héltu lítt auglýst erindi í Reykjavík, Ekki auglýst vegna þess að LK var víst staðinn að kynferðisáreitni. 50-70 manns mættu.
+
+GKS, valinn NHFP fellows árið 2022, mjög mikil viðurkenning. Getur verið að GKS fái prófessorstöðu í Amsterdam.
+
+NOT-sjónaukinn 7-10. júní 2022 vegna Jóhannes Andersen sem lést árið 2020.
+
+Námsleið í kennilegri eðlisfræði, samstarfsverkefni HÍ og Norrænu rannsóknastofnunarinnar.
+
+
+### Skoðaðir reikningar
+
+SHB rakti reikninga ársins. >380 000 kr á reikning. (sjá reikninga). Skoðunarmaður reikninga samþykkir ekki uppgjör og óskar frekari upplýsinga. Eru félagar samþykkir reikning, já. Allir samþykkir. 
+
+_Hér vill ritari benda stjórnarmönnum á að aðalfundi er ekki lokið nema að lagt hafi verið fram yfirfarið samþykkt (endurskoðað) reikningsuppgjör. Hlutverk aðalfundar er að ljúka „starfsári“ og gera upp. Ekki á að skilja eftir ókláruð mál. Reikningar eru hluti af því ferli. Þegar staða af þessu tagi kemur upp, sem nú er, verður að auglýsa aukaaðalfund þar sem reikningsuppgjör er aftur kynnt til samþykkis eða til að koma á framfæri frekari athugasemdir. Gefinn er ákveðinn tími, yfirleitt stuttur tími fyrir stjórn að ganga frá sínum málum. Ekki á að óska eftir að félagar samþykki óuppgerða reikninga. Þó að SVFÍ sé lítið félag á að fylgja fundarsköpum. Best er að boða ekki til aðalfundar fyrr en búið er að gera upp og endurskoða reikninga, til þess að forðast að kalla þurfi til aukaaðalfundar._
 
 <!--
 Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
