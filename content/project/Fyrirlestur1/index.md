@@ -40,13 +40,12 @@ Erindið verður haldið á ensku.
 
 ### Ágrip á íslensku (þýðing)
 
-Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, gerir okkur kleift að rannsaka elsta ljósið í alheiminum --- enduróm frá árdögum alheimsins. Í þessum erindi, mun Sasha Rahlin fjalla um tvo sjónauka sem hafa kortlagt upphaf og tímaþróun alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem gnæfir yfir hásléttu Suðurpólsins. Samhliða kynningu á þessum rannsóknum, mun Sasha fjalla um ýmsa þætti daglegs lífs á Suðurskautslandinu. 
-
-Við gerum ráð fyrir talsverðum fyrir spurningar.
+Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, opnar fyrir ýmsar stjarneðlisfræðirannsóknir sem væru annars vegar ómögulegar frá jörðu niðri. Í þessum erindi, mun Dr. Sasha Rahlin fjalla um tvo sjónauka sem hafa kortlagt sögu alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem gnæfir yfir hásléttu Suðurpólsins og rannsakar elsta ljósið í alheiminum --- enduróm frá árdögum alheimsins. Samhliða kynningu á þessum rannsóknum, mun Sasha fjalla um ýmsa þætti daglegs lífs á Suðurskautslandinu og svara spurningum úr sal.
 
 ### Um vísindamanninn (þýðing)
 
-Sasha Rahlin kláraði BSc. í eðlisfræði við MIT. Þaðan lá leiðin yfir til Princeton háskóla þar sem Sasha vann undir leiðsögn Bill Jones við hönnun, smíði og gagnaúrvinnslu frá SPIDER sjónaukanum. Þaðan flutti hún til Chicago þar sem hún hóf störf sem nýdoktor við Fermilab og vann við uppsetningu og viðhald á Suðurpólssjónaukanum (SPT). Síðan árið 2014, hefur Sasha farið átta sinnum á Suðurskautslandið. Þar á meðal er heilsárs viðvera við Amundsen-Scott stöðinu á Suðurpólnum. Hún starfar nú sem rannsóknaprófessor við Chicago háskóla og heldur áfram rannsóknum sínum tengdar SPIDER og SPT.
+Sasha Rahlin kláraði BSc. í eðlisfræði við MIT árið 2008. Þaðan lá leiðin í doktorsnám við Princeton háskóla þar sem Sasha vann við hönnun og smíði SPIDER sjónaukans og seinna gagnaúrvinnslu. Árið 2015 flutti hún til Chicago þar sem hún hóf störf sem nýdoktor við Fermilab og vann við hönnun, uppsetningu og viðhald á Suðurpólssjónaukanum (SPT). Síðan árið 2014 hefur Sasha farið átta sinnum á Suðurskautslandið. Þar á meðal er heilsársviðvera við Amundsen-Scott stöðinu á Suðurpólnum þar sem hún var yfirmaður rannsókna (e. Science Lead). Hún starfar nú sem rannsóknaprófessor við Chicago háskóla og heldur áfram vinnu sinni tengdri könnun alheimsins.
+
 
 ### Ágrip á ensku (upprunalega útgáfa)
 
