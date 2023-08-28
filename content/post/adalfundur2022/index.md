@@ -63,7 +63,7 @@ print('hello')
 14.12.2022, kl 20:00 – 22:00
 
 
-### Mættir
+### Mættir (☨ á fjarfundi)
 ☨Guðmundur Kári Stefánsson (GKS)
 
 ☨Jón Emil Guðmundsson (JEG)
@@ -81,8 +81,6 @@ Sævar Helgi Bragason (SHB)
 ☨Snævarr Guðmundsson (SG)
 
 ☨Einar H. Guðmundsson (EHG)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☨ á fjarfundi
 
 
 ### Skýrsla stjórnar
@@ -112,7 +110,7 @@ Engar tillögur bárust. EHG  minnti á að lagabreytingar verði að boðast me
 
 Annað hvert ár er kosinn formaður, hin árin gjaldkeri og ritari. KH ætlar að stíga til hliðar en gerir að tillögu að JEG taki við formannsstöðu. Var það samþykkt með öllum greiddum atkvæðum.
 
-###  Kosning endurskoðenda -> skoðunarmenn reikninga
+###  Kosning endurskoðenda → skoðunarmenn reikninga
 
 EHS: Endurskoðandi er lögverndað starfsheiti. Á að vera skoðunarmenn reikninga. Núverandi skoðunarmenn eru Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson en lagt til að gefa þeim síðarnefnda frí frá þessum störfum. Við tekur GJ.
 
