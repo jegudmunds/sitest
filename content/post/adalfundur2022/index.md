@@ -64,9 +64,9 @@ print('hello')
 
 
 ### Mættir
-☆Guðmundur Kári Stefánsson (GKS)
+☨Guðmundur Kári Stefánsson (GKS)
 
-☆Jón Emil Guðmundsson (JEG)
+☨Jón Emil Guðmundsson (JEG)
 
 Kári Helgason (KH)
 
@@ -78,11 +78,11 @@ Páll Jakobsson (PJ)
 
 Sævar Helgi Bragason (SHB)
 
-☆Snævarr Guðmundsson (SG)
+☨Snævarr Guðmundsson (SG)
 
-☆Einar H. Guðmundsson (EHG)
+☨Einar H. Guðmundsson (EHG)
 
-☆ á fjarfundi
+☨ á fjarfundi
 
 
 ### Skýrsla stjórnar
