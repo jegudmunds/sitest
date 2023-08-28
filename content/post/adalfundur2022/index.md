@@ -116,6 +116,14 @@ Annað hvert ár er kosinn formaður, hin árin gjaldkeri og ritari. KH ætlar a
 
 EHS: Endurskoðandi er lögverndað starfsheiti. Á að vera skoðunarmenn reikninga. Núverandi skoðunarmenn eru Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson en lagt til að gefa þeim síðarnefnda frí frá þessum störfum. Við tekur GJ.
 
+### Ákvörðun árgjalds
+
+Almennt félagsgjald 3000 kr, námsmannagjald 1500 kr. Tillaga að félagar erlendis borgi einnig hálft var ekki samþykkt. Þeir greiða því enn fullt gjald. 
+
+### Önnur mál
+
+
+
 <!--
 Stjarnvísindafélags Íslands, þann 20-06-2023, kl. 20:00 - 21:30
 Mættir á skjá: Jón Emil Guðmundsson (JEG), Kári Helgason (KH), Sigríður Kristjánsdóttir (SK), Guðmundur K. Stefánsson (GKS), Einar H. Guðmundsson (EHG), Sævar H. Bragason (SHB) og Snævarr Guðmundsson (SG). Þorsteinn Vilhjálmsson mætti kl. 21:06.
