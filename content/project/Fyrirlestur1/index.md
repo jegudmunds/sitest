@@ -1,6 +1,6 @@
 ---
 title: Stjarnvísindi á Suðurspólnum
-summary: Sasha Rahlin heldur erindi
+summary: Sasha Rahlin heldur erindi í Húsi Vigdísar 13. september klukkan 19:30
 tags:
   - Fyrirlestur
 date: '2023-08-13T00:00:00Z'
@@ -29,8 +29,8 @@ slides: ""
 
 ### Stjarnvísindi frá Suðurpólnum
 
-_Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands kynna:_
-Stjarnvísindi frá Suðurpólnum. Sasha Rahlin, rannsóknaprófessor við University of Chicagao heldur erindi.
+_Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands ásamt Háskóla íslands kynna:_
+Stjarnvísindi frá Suðurpólnum. Dr. Sasha Rahlin, rannsóknaprófessor við University of Chicagao heldur erindi.
 
 Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
 
@@ -40,12 +40,11 @@ Erindið verður haldið á ensku.
 
 ### Ágrip á íslensku (þýðing)
 
-Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, opnar fyrir ýmsar stjarneðlisfræðirannsóknir sem væru annars vegar ómögulegar frá jörðu niðri. Í þessum erindi, mun Dr. Sasha Rahlin fjalla um tvo sjónauka sem hafa kortlagt sögu alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem gnæfir yfir hásléttu Suðurpólsins og rannsakar ofursvarthol, elsta ljósið í alheiminum og allt þar á milli. Samhliða kynningu á þessum rannsóknum, mun Sasha fjalla um ýmsa þætti daglegs lífs á Suðurskautslandinu og svara spurningum úr sal.
+Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, opnar fyrir ýmsar stjarneðlisfræðirannsóknir sem væru annars vegar ómögulegar frá jörðu niðri. Í þessum erindi, mun Dr. Sasha Rahlin fjalla um tvo sjónauka sem hafa kortlagt sögu alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem gnæfir yfir Suðurpólshásléttunni og rannsakar ofursvarthol, elsta ljósið í alheiminum og allt þar á milli. Samhliða kynningu á þessum rannsóknum, mun Sasha fjalla um ýmsa þætti daglegs lífs á Suðurskautslandinu og svara spurningum úr sal.
 
 ### Um vísindamanninn (þýðing)
 
 Sasha Rahlin kláraði BSc. í eðlisfræði við MIT árið 2008. Þaðan lá leiðin í doktorsnám við Princeton háskóla þar sem Sasha vann við hönnun og smíði SPIDER sjónaukans og seinna gagnaúrvinnslu. Árið 2015 flutti hún til Chicago þar sem hún hóf störf sem nýdoktor við Fermilab og vann við hönnun, uppsetningu og viðhald á Suðurpólssjónaukanum (SPT). Síðan árið 2014 hefur Sasha farið átta sinnum á Suðurskautslandið. Þar á meðal er heilsársviðvera við Amundsen-Scott stöðinu á Suðurpólnum þar sem hún var yfirmaður rannsókna (e. Science Lead). Hún starfar nú sem rannsóknaprófessor við Chicago háskóla og heldur áfram vinnu sinni tengdri könnun alheimsins.
-
 
 ### Ágrip á ensku (upprunalega útgáfa)
 
