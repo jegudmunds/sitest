@@ -3,7 +3,7 @@ title: Aðalfundur 2022
 subtitle: Almenn fundarstörf
 
 # Summary for listings and search engines
-summary: Við héldum léttan fund á Zoom þar sem við ræddum ýmis málefni tengd Stjarnvísindafélagi Íslands.
+summary: Aðalfundur félagsins haldinn í Tæknigarði (HÍ)
 
 # Link this post with a project
 projects: []
