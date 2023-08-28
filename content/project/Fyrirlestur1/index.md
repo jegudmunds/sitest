@@ -40,7 +40,7 @@ Erindið verður haldið á ensku.
 
 ### Ágrip á íslensku (þýðing)
 
-Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, gerir okkur kleift að rannsaka elsta ljósið í alheiminum --- enduróm frá upphafi alheimsins. Í þessum erindi, mun ég fjalla um tvo sjónauka sem hafa kortlagt upphaf alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem setur svo sannarlega mark sitt á umhverfi Suðurpólsins. Þessir sjónaukar færa nær því að skilja upphaf og tímaþróun alheimsins. Samhliða kynningu á þessum rannsóknum, mun ég fjalla um ýmsa þætti daglegs lífs Suðurskautslandinu.
+Einstök veðrátta á Suðurskautslandinu, og þá sérstaklega Suðurpólnum, gerir okkur kleift að rannsaka elsta ljósið í alheiminum --- enduróm frá árdögum alheimsins. Í þessum erindi, mun ég fjalla um tvo sjónauka sem hafa kortlagt upphaf alheimsins frá Suðurskautslandinu. Annars vegar SPIDER sjónaukann, loftbelgstilraun sem flaug upp í heiðhvolfið frá Suðurskautslandinu árið 2015 og svo aftur 2022. Og hins vegar Suðurpólssjónaukann (e. South Pole Telescope), 10-metra sjónauka sem setur svo sannarlega mark sitt á umhverfi Suðurpólsins. Þessir sjónaukar færa nær því að skilja upphaf og tímaþróun alheimsins. Samhliða kynningu á þessum rannsóknum, mun ég fjalla um ýmsa þætti daglegs lífs Suðurskautslandinu.
 
 ### Um vísindamanninn (þýðing)
 
