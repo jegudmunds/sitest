@@ -82,7 +82,7 @@ Sævar Helgi Bragason (SHB)
 
 ☨Einar H. Guðmundsson (EHG)
 
-  ☨ á fjarfundi
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;☨ á fjarfundi
 
 
 ### Skýrsla stjórnar
