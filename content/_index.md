@@ -311,8 +311,8 @@ sections:
       text: |-
         Allar fyrirspurnir má senda á stjórnarmeðlimi félagsins, Jón Emil Guðmundsson (jegudmunds@gmail.com), Snævarr Guðmundsson (snaevarr@nattsa.is) og Sævar Helgi Bragason (saevarhb@gmail.com).
       # Contact (add or remove contact options as necessary)
-      email: jegudmunds@hi.is
-      phone: 525 4625
+      #email: jegudmunds@hi.is
+      #phone: 525 4625
       # appointment_url: 'https://calendly.com'
       # address:
       #   street: 450 Serra Mall
