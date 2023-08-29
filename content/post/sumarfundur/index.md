@@ -3,7 +3,7 @@ title: Sumarfundur 2023
 subtitle: Umræður um ýmis málefni tengd SÍ --- stillum saman strengi fyrir komandi verkefni
 
 # Summary for listings and search engines
-summary: Við héldum léttan fund á Zoom þar sem við ræddum ýmis málefni tengd Stjarnvísindafélagi Íslands.
+summary: Við héldum Zoom fund þar sem við ræddum ýmis málefni tengd Stjarnvísindafélagi Íslands.
 
 # Link this post with a project
 projects: []
