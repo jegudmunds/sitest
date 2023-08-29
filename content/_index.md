@@ -39,7 +39,6 @@ sections:
 
 
 
-
         Dunhaga 5, 107 Reykjavík, Iceland  
 
         Kt: 710112-1500
