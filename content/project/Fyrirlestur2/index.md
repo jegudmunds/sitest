@@ -1,6 +1,6 @@
 ---
-title: Stjarnvísindi á Suðurspólnum
-summary: Sasha Rahlin heldur erindi í Húsi Vigdísar 13. september klukkan 19:30
+title: Fjársjóðsleit meðal dvergvetrarbrauta
+summary: Ása Skúladóttir heldur erindi í Öskju 23. nóvember klukkan 20:00
 tags:
   - Fyrirlestur
 date: '2023-11-23T00:00:00Z'
