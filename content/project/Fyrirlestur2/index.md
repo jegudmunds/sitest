@@ -32,7 +32,7 @@ slides: ""
 _Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands ásamt Háskóla íslands kynna:_
 Fjársjóðsleit meðal dvergvetrarbrauta. Dr. Ása Skúladóttir, stjarneðlisfræðingur við Háskólann í Flórens heldur erindi.
 
-Staður og stund: Salur N-132 í Öskju klukkan 20:00 fimmtudaginn 23. september.
+Staður og stund: Salur N-132 í Öskju klukkan 20:00 fimmtudaginn 23. nóvember.
 
 Öll velkomin!
 
