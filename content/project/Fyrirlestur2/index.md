@@ -2,7 +2,7 @@
 title: Fjársjóðsleit meðal dvergvetrarbrauta
 summary: Ása Skúladóttir heldur erindi í Öskju 23. nóvember klukkan 20:00
 tags:
-  - Fyrirlestur
+  - Fyrirlestur2
 date: '2023-11-23T00:00:00Z'
 
 image:
