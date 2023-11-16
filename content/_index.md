@@ -72,8 +72,6 @@ sections:
           tag: '*'
         - name: Fyrirlestur
           tag: Fyrirlestur
-        - name: Fyrirlestur2
-          tag: Fyrirlestur2
 
       #   - name: Other
       #     tag: Demo
