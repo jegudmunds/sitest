@@ -14,7 +14,7 @@ sections:
         label: The Icelandic Astronomical Society
 
       text: |-
-        Msarkmið Stjarnvísindafélag Íslands er að stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræð.
+        Markmið Stjarnvísindafélag Íslands er að stuðla að vexti og viðgangi rannsókna í stjörnufræði og stjarneðlisfræð.
 
         # <!--Custom spacing-->
         # <div class="mb-3"></div>
