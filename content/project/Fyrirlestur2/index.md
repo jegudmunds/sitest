@@ -38,7 +38,7 @@ Staður og stund: Salur N-132 í Öskju klukkan 20:00 fimmtudaginn 23. nóvember
 
 Öll velkomin!
 
-<a href="Skuladottir_Island23send.pdf">Tengill á fyrirlestraglærur.</a>
+<a href="Skuladottir_Island23send.pdf">Tengill á fyrirlestrarglærur.</a>
 
 ### Ágrip
 

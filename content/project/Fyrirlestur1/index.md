@@ -36,6 +36,8 @@ Staður og stund: Hús Vigdísar klukkan 19:30 þriðjudaginn 13. september.
 
 Erindið verður haldið á ensku.
 
+<a href="Sasha_iceland_astronomy_talk2.pdf">Tengill á fyrirlestraglærur.</a>
+
 Öll velkomin!
 
 ### Ágrip á íslensku (þýðing)
