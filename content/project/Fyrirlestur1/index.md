@@ -1,6 +1,6 @@
 ---
 title: Stjarnvísindi á Suðurspólnum
-summary: Sasha Rahlin heldur erindi í Húsi Vigdísar 13. september klukkan 19:30
+summary: Sasha Rahlin heldur erindi í Húsi Vigdísar 13. september 2023 klukkan 19:30
 tags:
   - Fyrirlestur
 date: '2023-08-13T00:00:00Z'

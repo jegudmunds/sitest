@@ -1,6 +1,6 @@
 ---
 title: Hulinn heimur — leyndardómar hulduorku og hulduefnis
-summary: Andrés Alejandro Plazas Malagón heldur erindi í Húsi Vigdísar 16. september klukkan 20:00
+summary: Andrés Alejandro Plazas Malagón heldur erindi í Húsi Vigdísar 16. september 2024 klukkan 20:00
 tags:
   - Fyrirlestur
 date: '2024-09-02T00:00:00Z'

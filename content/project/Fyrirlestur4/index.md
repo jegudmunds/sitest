@@ -1,6 +1,6 @@
 ---
 title: Fyrstu stjörnurnar og rannsóknir á hjara veraldar
-summary: Cynthia Chiang heldur erindi í Húsi Vigdísar 7. maí klukkan 20:00
+summary: Cynthia Chiang heldur erindi í Húsi Vigdísar 7. maí 2024 klukkan 20:00
 tags:
   - Fyrirlestur
 date: '2024-05-07T00:00:00Z'

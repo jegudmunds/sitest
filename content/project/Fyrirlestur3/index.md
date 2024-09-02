@@ -1,6 +1,6 @@
 ---
 title: Svarthol
-summary: Matthias Harksen heldur erindi í Húsi Vigdísar 10. apríl klukkan 20:00
+summary: Matthias Harksen heldur erindi í Húsi Vigdísar 10. apríl 2024 klukkan 20:00
 tags:
   - Fyrirlestur
 date: '2024-04-10T00:00:00Z'
