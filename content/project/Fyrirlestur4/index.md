@@ -6,7 +6,7 @@ tags:
 date: '2024-05-07T00:00:00Z'
 
 image:
-  caption: Cynthia Chiange 
+  caption: Cynthia Chiang
   focal_point: Smart
 
 url_code: ''
