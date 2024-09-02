@@ -35,7 +35,7 @@ tags:
   - Academic
 
 categories:
-  - Fundir
+  - Annað
 ---
 
 <!-- ```python
@@ -45,10 +45,8 @@ print('hello')
  -->
 
 
-## Dagskrá
+## Umfjöllun
 
 Texti <a href="Stjornuathuganir_2022-rafraent.pdf">linkur</a>
 
-## Fundargerð (rituð af Snævarri Guðmundssyni)
 
-28.12.2023, kl 14:00 – 16:00
