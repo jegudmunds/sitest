@@ -33,6 +33,8 @@ Erindið verður haldið á ensku.
 
 Öll velkomin!
 
+<a href="20240507_iceland_public.pdf">Tengill á fyrirlestrarglærur.</a>
+
 ### Ágrip á íslensku (þýðing)
 
 Hvernig var alheimurinn þegar fyrstu stjörnurnar litu dagsins ljós? Við vitum ósköp lítið um tímabilið í sögu alheimsins sem kalla mætti hina fyrstu dögun. Þótt ótrúlegt megi virðast, þá eru samt til leiðir til þess að rýna í þetta tímabil. Daufar útvarpsbylgjur sem stafa frá ójónuðu vetni, algengasta frumefninu í alheiminum, gefa vísbendingu um geislun frá fyrstu stjörnunum. Rannsóknir á þessum bylgjum krefjast sérhannaðra útvarpssjónauka sem eru staðsettir í útnárum jarðarinnar til þess að sleppa undan suði af mannavöldum, m.a. frá útvarps- og sjónvarpsstöðvum. Í þessum fyrirlestri mun Dr. Cynthia Chiang lýsa störfum rannsóknarhópsins sem hún leiðir sem snúa t.d. að hönnun, smíði, og gangsetningu á útvarpssjónaukum á sumum af afskektustu stöðunum á jörðinni, þar á meðal á Axel Heiber eyju í norðurhluta Kanada og Marion eyju sem er mitt á milli Suður Afríku og Suðurskautslandsins. Ekki missa af þessum áhugaverða fyrirlestri um rannsóknir sem gætu svipt hulunni af lítt þekktu tímabili í frumbernsku alheimsins.
