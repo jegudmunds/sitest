@@ -47,16 +47,7 @@ print('hello')
 
 ## Dagskrá
 
-
-- Kosning fundarstjóra og ritara
-- Skýrsla stjórnar flutt
-- Endurskoðaðir reikningar lagðir fram til afgreiðslu
-- Lagabreytingar
-- Kosning stjórnarmanna
-- Kosning endurskoðanda
-- Ákvörðun árgjalds
-- Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn)
-
+Texti <a href="Stjornuathuganir_2022-rafraent.pdf">linkur</a>
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
