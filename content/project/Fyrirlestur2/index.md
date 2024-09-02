@@ -38,6 +38,8 @@ Staður og stund: Salur N-132 í Öskju klukkan 20:00 fimmtudaginn 23. nóvember
 
 Öll velkomin!
 
+<a href="Skuladottir_Island23send.pdf">Tengill á fyrirlestraglærur.</a>
+
 ### Ágrip
 
 Vetrarbrautin okkar er umvafinn mörgum öðrum minni vetrarbrautum. Þessar litlu vetrarbrautir, sem kallast dvergvetrarbrautir, eru flestar mjög gamlar og stjörnur þeirra geyma upplýsingar um löngu liðna tíma – allt frá því þegar fyrstu stjörnurnar og vetrarbrautirnar í heiminum mynduðust. Nýlega hafa einnig fundist fjöldamargir stjörnustraumar sem taldir eru vera leyfar af gömlum dvergvetrarbrautum sem hafa verið slitnar í sundur af þyngdarafli Vetrarbrautarinnar. Þessar litlu dvergvetrarbrautir og stjörnustraumar þeirra eru fjársjóðskista sem geymir svör við mörgum af stóru spurningum stjarneðlisfræðinnar. Hér verður fjallað um nýjar uppgötvanir sem að þessar litlu vetrarbrautir hafa leitt til og einnig verður fjallað um könnunina 4DWARFS, sem er leidd af Ásu Skúladóttur og mun taka gögn í 5 ár, frá byrjun 2025 til lok 2029. 4DWARFS mun taka litróf af um 130.000 stjörnum í dvergvetrarbrautum og stjörnustraumum sem að sjást frá suðurhveli jarðar. Þannig er hægt að mæla hraða stjarnanna, aldur þeirra og efnasamsetningu og 4DWARFS mun því gefa okkur glænýja sýn á þessar litlu en mikilvægu vetrarbrautir.
