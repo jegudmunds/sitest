@@ -47,6 +47,6 @@ print('hello')
 
 ## Umfjöllun
 
-Texti <a href="Stjornuathuganir_2022-rafraent.pdf">linkur</a>
+Samantekt Snævarr Guðmundssonar um stjarnmælingar frá Hornafirði árið 2022. Texti <a href="Stjornuathuganir_2022-rafraent.pdf">Tengill á skrá (pdf, 8 MB).</a>
 
 
