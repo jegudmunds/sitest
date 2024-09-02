@@ -261,7 +261,7 @@ sections:
       title: Myndir frá viðburðum
       subtitle: ''
       text: |-
-        {{< gallery album="demo" >}}
+        {{< gallery album="vidburdir" >}}
     design:
       columns: '1'
   # - block: collection
