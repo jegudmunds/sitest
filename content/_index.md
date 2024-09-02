@@ -258,7 +258,7 @@ sections:
 
   - block: markdown
     content:
-      title: Gallery
+      title: Myndir frá viðburðum
       subtitle: ''
       text: |-
         {{< gallery album="demo" >}}
