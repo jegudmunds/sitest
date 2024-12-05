@@ -67,20 +67,3 @@ Zoom: https://eu01web.zoom.us/j/68575058693
   * Ráðstefnur á Íslandi á næstu árum
   * Orðaskrá Stjarnvísindafélags Íslands
 
-## Fundargerð 
-
-### Mættir
-
-### Skýrsla stjórnar
-
-### Endurskoðaðir reikningar lagðir fram til afgreiðslu
-
-### Lagabreytingar
-
-### Kosning stjórnarmanna
-
-###  Kosning endurskoðenda → skoðunarmenn reikninga
-
-### Ákvörðun árgjalds
-
-### Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn)
