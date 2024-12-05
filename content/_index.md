@@ -92,7 +92,7 @@ sections:
 
         **Gjaldkeri:** Sævar Helgi Bragason  
 
-        **Endurskoðendur:**  Þorsteinn Þorsteinsson og Þorsteinn Vilhjálmsson  
+        **Endurskoðendur:**  Þorsteinn Þorsteinsson og Guðlaugur Jóhannesson
 
 
 
