@@ -161,10 +161,10 @@ sections:
     content:
       title: Tenglar
       text: >
-        Tenglar á ýmist efni tengt Stjarnvísindum á Íslandi
+        Tenglar á ýmist efni tengt stjarnvísindum á Íslandi (í vinnslu)
 
-          * Tengill 1
-          * Tengill 2    
+          * Youtube síða félagsins
+          * <a href="https://uni.hi.is/einar/2018/11/25/stjarnvisindafelag-islands-30-ara/">Yfirlit um fyrstu 30 árin í sögu Stjarnvísindafélags Íslands</a>
     design:
       # See Page Builder docs for all section customization options.
       # Choose how many columns the section has. Valid values: '1' or '2'.
