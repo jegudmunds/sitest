@@ -156,6 +156,21 @@ sections:
       columns: '1'
 
 
+  - block: markdown
+    id: log
+    content:
+      title: Tenglar
+      text: >
+        Tenglar á ýmist efni tengt Stjarnvísindum á Íslandi
+
+          * Tengill 1
+          * Tengill 2    
+    design:
+      # See Page Builder docs for all section customization options.
+      # Choose how many columns the section has. Valid values: '1' or '2'.
+      columns: '1'
+
+
 
   # - block: about.biography
   #   id: about
