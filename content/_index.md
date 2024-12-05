@@ -161,8 +161,7 @@ sections:
     content:
       title: Tenglar
       text: >
-        Tenglar á ýmist efni tengt stjarnvísindum á Íslandi (í vinnslu)
-
+        Tenglar á ýmist efni tengt stjarnvísindum á Íslandi <span style="color:blue">(í vinnslu)</span>.
           * Youtube síða félagsins
           * <a href="https://uni.hi.is/einar/2018/11/25/stjarnvisindafelag-islands-30-ara/">Yfirlit um fyrstu 30 árin í sögu Stjarnvísindafélags Íslands</a>
     design:
