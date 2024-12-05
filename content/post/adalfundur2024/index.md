@@ -44,6 +44,10 @@ print('hello')
 ```
  -->
 
+Aðalfundur félagsins verður haldinn í Skjálfta, fundarherbergi á jarðhæð Tæknigarðs, laugardaginn 7. desember, kl. 15-17. Boðið verður upp á kaffi/te og léttar veitingar. Við verðum með Zoom tengimöguleika fyrir þá sem vilja (sjá upplýsingar fyrir neðan). 
+
+Zoom: https://eu01web.zoom.us/j/68575058693
+
 ## Dagskrá
 
 1. Kosning fundarstjóra og ritara
