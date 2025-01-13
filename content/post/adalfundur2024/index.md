@@ -9,10 +9,10 @@ summary: Aðalfundur félagsins haldinn í Tæknigarði (HÍ)
 projects: []
 
 # Date published
-date: '2024-12-05T00:00:00Z'
+date: '2025-1-13T00:00:00Z'
 
 # Date updated
-lastmod: '2024-12-05T00:00:00Z'
+lastmod: '2025-1-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'JWST og Kári Helgason'
+  caption: 'Aðalfundur 2024'
   focal_point: ''
   placement: 2
   preview_only: false
@@ -129,6 +129,7 @@ Skoðunarmenn reikninga voru GJ og Þorsteinn Þorsteinsson. Guðlaugur sat fund
 ### Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn)
 
   (a) Tillögur að nýjum félagsmönnum
+
 JEG byrjaði á að nefna fjóra einstaklinga sem mætti bjóða í félagið: Matthías Baldursson, PhD nemi, Benedikt Stefánsson, Institute of Astronomy í Belgíu. Anna í stjörnuskoðunarfélaginu í Lundi: Viktor H. Jónsson, Kristinn Vernharðsson og Þóra K. GJ benti á Helga F.  Rúnarsson sem vinnur hjá CCP. Andri Grétarson. Fundarmenn samþykktu að bjóða mætti þessum einstaklingum í félagið. GB lagði til frænda sinn, Björn Bergsson sem er í Florída. KH lagði til að Páll Jakobsson og Jesus skimuðu eftir vænlegum félögum í Stjarnvísindafélagið.
 
   (b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
@@ -147,15 +148,15 @@ EHG umræðuefni bauð HA velkominn á fundinn. EHG hafði sent skeyti um þenna
 HA rakti að stjörnufræði í grunnskóla: námskrá. Sumir kenna stjörnufræði og halda betur utan um það en aðrir. Kennsluskrá frá 1999. Rétt um 2000 varð óheillaþróun varðandi námskrána. Var með allt öðru sniði varðandi náttúruvísindi. Efni frá 1999 var pakkað niður um 2013 og stjörnufræði þurrkuð út á grunnskólasniði. HA byrjaðii að kenna 1996 en upp úr hruni hvarf stjörnufræði úr kennaramenntun. Nú hefur aðeins ræst úr og 2024 hefur aðeins verið bætt í (sjá glæru um alheiminn). Vefsetrið mms.is => eðlisfræði 3, rafbók er núverandi námsefni. JEG: skortur á náttúrufræðikennurum. Allir grunnskólanema eiga að fá kennslu í stjörnufræði.
 Samantekt um stjörnufræðikennslu í menntaskólum á Íslandi (tekið upp úr samantekt X X).
 
-• Í MR er stjörnufræði ekki lengur skyldufag á eðlisfræðibraut en nú í vetur er hún kennd sem valgrein. Hending réð því að Una Kamilla kennir í vetur en ekki Bjarni  Traustason; mögulega er hún að kenna stjörnufræði í fyrsta skipti í vetur. Stjörnufræði var áður kennd í MR veturinn 2021-22, sem valgrein, og þá kenndi Ingibjörg Rósa Jónsdóttir (jarðfræðikennari).
-• Í Kvennó er það Lea María Lemarquis sem hefur mikinn áhuga á að halda stjörnufræði að nemendum, og hún þyrfti klárlega að vera hluti af öllum starfshópum sem fjalla um stjörnufræði í framhaldsskólum.
-• Í MH hefur Einar Már Júlíusson kennt stjörnufræði síðustu áratugi þegar næg þátttaka hefur fengist. Síðustu ár hefur gengið illa að ná lágmarksfjölda.
-• Í Fjölbraut Ármúla var stjörnufræði kennd á vormisseri 2024, Andri Ingvason sá um kennsluna.
-• Í MK hefur Maren Davíðsdóttir kennt stjörnufræði þegar nægur fjöldi hefur valið, síðast Vor 2024
-• Í Fjölbrautaskóla Suðurlands á Selfossi hefur stjörnufræði verið kennd sem valgrein, eftir því sem næst verður komist síðast Vor 2024 af Sölva Snæ Jökulssyni.
-• Í Flensborg hefur Viðar Ágústsson kennt stjörnufræði af miklum metnaði, þó er ekki á hverju ári sem nægur fjöldi fæst.
-• Í Verzló er stjörnufræði ennþá skyldufag á eðlisfræðibraut, 4 tímar á viku hálfan vetur, tveir bekkir á hverju ári (rúmlega 50 nemendur), en auk þess kennd ca 2. hvert ár sem valgrein á líffræðibraut. Þóra Kristín Karlsdóttir er að kenna stjörnufræði í fyrsta skipti í vetur, einum hóp.
-• MA: Stjörnufræði ekki lengur skyldufag á eðlisfræðibraut.
+* Í MR er stjörnufræði ekki lengur skyldufag á eðlisfræðibraut en nú í vetur er hún kennd sem valgrein. Hending réð því að Una Kamilla kennir í vetur en ekki Bjarni  Traustason; mögulega er hún að kenna stjörnufræði í fyrsta skipti í vetur. Stjörnufræði var áður kennd í MR veturinn 2021-22, sem valgrein, og þá kenndi Ingibjörg Rósa Jónsdóttir (jarðfræðikennari).
+* Í Kvennó er það Lea María Lemarquis sem hefur mikinn áhuga á að halda stjörnufræði að nemendum, og hún þyrfti klárlega að vera hluti af öllum starfshópum sem fjalla um stjörnufræði í framhaldsskólum.
+* Í MH hefur Einar Már Júlíusson kennt stjörnufræði síðustu áratugi þegar næg þátttaka hefur fengist. Síðustu ár hefur gengið illa að ná lágmarksfjölda.
+* Í Fjölbraut Ármúla var stjörnufræði kennd á vormisseri 2024, Andri Ingvason sá um kennsluna.
+* Í MK hefur Maren Davíðsdóttir kennt stjörnufræði þegar nægur fjöldi hefur valið, síðast Vor 2024
+* Í Fjölbrautaskóla Suðurlands á Selfossi hefur stjörnufræði verið kennd sem valgrein, eftir því sem næst verður komist síðast Vor 2024 af Sölva Snæ Jökulssyni.
+* Í Flensborg hefur Viðar Ágústsson kennt stjörnufræði af miklum metnaði, þó er ekki á hverju ári sem nægur fjöldi fæst.
+* Í Verzló er stjörnufræði ennþá skyldufag á eðlisfræðibraut, 4 tímar á viku hálfan vetur, tveir bekkir á hverju ári (rúmlega 50 nemendur), en auk þess kennd ca 2. hvert ár sem valgrein á líffræðibraut. Þóra Kristín Karlsdóttir er að kenna stjörnufræði í fyrsta skipti í vetur, einum hóp.
+* MA: Stjörnufræði ekki lengur skyldufag á eðlisfræðibraut.
  Það er því ljóst að talsverður áhugi er á stjörnufræði í mörgum skólum þó hún sé ekki skyldufag nema í einum skóla. Það sem skiptir sköpum er að í skólunum séu til staðar áhugasamir kennarar sem geta tekið að sér kennsluna þegar nægur fjöldi fæst; þarna skiptir „orðið á götunni“ meðal nemenda miklu máli, að stjörnufræðin hafi á sér orð fyrir að vera spennandi og áhugaverð (og kannski ekki of kröfuhörð?). Fyrir skólastjórnendur er nauðsynlegt að innanhúss sé að finna „starfsmann á plani“ sem getur tekið kennsluna að sér. Það væri áhugavert að hafa lauslegt sambandi við þá ofangreinda sem kennt hafa stjörnufræðina í hinum ýmsu skólum, spyrja hvernig hafi gengið og jafnvel fá til skrafs og ráðagerða.
  Þessu tengt vakna síðan aðrar spurningar:
 Ætti stjarnvísindafélagið að styðja við stjörnufræðikennslu í ljósi þess að margir kennarar eru að kenna stjörnufræði í fyrsta skipti? Ætti félagið t.d. að gefa út leiðbeinandi hugmyndir að námsáætlun, með upptalningu kjarnaatriða? Hér mætti tvinna saman við ávísunum á gagnlegt YouTube efni enda auðvelt að villast í þeim frumskógi – t.d. Jason Kendall fyrirlestrarnir og annað vel valið efni? Einnig benda á Netflix þættina „Cosmic Time Machine“ um James Webb, og „Black Holes: The Edge of all we know“. Ditto með Cosmos, bæði gömlu og nýju?
