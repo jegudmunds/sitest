@@ -67,3 +67,41 @@ Zoom: https://eu01web.zoom.us/j/68575058693
   * Ráðstefnur á Íslandi á næstu árum
   * Orðaskrá Stjarnvísindafélags Íslands
 
+## Fundargerð (rituð af Snævarri Guðmundssyni)
+
+Á fundinn mættu: Jón Emil Guðmundsson (JEG, formaður), Sævar Helgi Bragason (SHB, gjaldkeri og fundarstjóri), Snævarr Guðmundsson (SG, ritari), Gunnlaugur Björnsson (GB), Guðlaugur Jóhannesson (GJ), Einar H. Guðmundsson (EHG), Þórir Sigurðsson (ÞS) og Kári Helgason (KH). Haukur Arason (HA, mætti kl. 15:54)
+
+Aðalfundur félagsins var haldinn í Skjálfta, fundarherbergi á jarðhæð Tæknigarðs, laugardaginn 7. desember, kl. 15-17. Einnig var Zoom tengimöguleiki, sjá: 
+Zoom: https://eu01web.zoom.us/j/68575058693. Hins vegar tengdi enginn sig inn á fundinn að þessu sinni.
+
+### Mæting
+
+Jón Emil Guðmundsson (JEG, formaður) 
+
+Sævar Helgi Bragason (SHB, gjaldkeri og fundarstjóri)
+
+Snævarr Guðmundsson (SG, ritari)
+
+Gunnlaugur Björnsson (GB)
+
+Guðlaugur Jóhannesson (GJ)
+
+Einar H. Guðmundsson (EHG)
+
+Þórir Sigurðsson (ÞS)
+
+Kári Helgason (KH)
+
+Haukur Arason (HA, mætti kl. 15:54)
+
+### Skýrsla stjórnar
+
+JEG rakti skýrslu frá stjórninni fyrir starfsárið 2024. Fyrirlestrarröð á vegum Stjarnvísindafélagsins og Stjörnuskoðunarfélagsins gekk vel, fjögur erindi voru haldin á árinu 2024. EHG og KH lýstu ánægju sinni með fyrirlestraröðina. Upp spunnust umræður um vænlega fyrirlestrarkosti í framtíðinni. Fyrirlestrarnir fyrir almenning hafa dregið fjölda áhugasamra að og á einum þeirra sem fjallaði um svarthol, varð eiginlega húsfyllir. Einnig fór fram umræða um kostnaðinn við að senda erindin út í streymi, en hann er talsverður. Skýrsla stjórnar samþykkt.
+
+### Endurskoðaðir reikningar lagðir fram til afgreiðslu
+
+Reikningar fyrir starfsárið 2024 lagðir fram. Skoðunarmaður reikninga (GJ) samþykkti framlagða rekstrar- og efnahagsreikninga. Ekki mikil útgjöld á árinu. Félagið virðist standa ágætlega. Reikningar samþykktir. JEG hafði lagt út fyrir léni félagsins og óskaði eftir að fá endurgreitt frá félaginu. Það var að sjálfsögðu samþykkt.
+
+### Lagabreytingar
+
+Engar tillögur um lagabreytingar voru lagðar fram á árinu. EHG benti á og lagði til að kosnir yrðu meðstjórnendur eða varamenn í stjórnina. Hann minnti á að stofnfélagar voru aðeins sex í upphafi og á þeim tíma var ekki talin þörf á varamönnum. Engu að síður væri heppilegt að hafa varamenn eða meðstjórnendur sem gætu lagt lið. Hér var lagt til að gera lagabreytingu á næsta aðalfundi og gert ráð fyrir að a.m.k. einn varamaður yrði kjörinn í stjórnina.
