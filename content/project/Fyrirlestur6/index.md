@@ -3,10 +3,10 @@ title: Tíu grundvallarhugmyndir eðlisfræðinnar
 summary: A. Zee heldur erindi í Húsi Vigdísar 10. desember 2024 klukkan 20:00
 tags:
   - Fyrirlestur
-date: '2025-01-013T00:00:00Z'
+date: '2025-01-01T00:00:01Z'
 
 image:
-  caption: Andrés Malagón
+  caption: A. Zee
   focal_point: Smart
 
 url_code: ''

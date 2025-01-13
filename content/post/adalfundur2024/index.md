@@ -9,10 +9,10 @@ summary: Aðalfundur félagsins haldinn í Tæknigarði (HÍ)
 projects: []
 
 # Date published
-date: '2025-1-12T00:00:00Z'
+date: '2025-01-12T00:00:01Z'
 
 # Date updated
-lastmod: '2025-1-12T00:00:00Z'
+lastmod: '2025-01-12T00:00:01Z'
 
 # Is this an unpublished draft?
 draft: false
