@@ -58,14 +58,14 @@ Zoom: https://eu01web.zoom.us/j/68575058693
 6. Kosning tveggja skoðunarmanna reikninga til eins árs
 7. Ákvörðun árgjalds
 8. Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn):
-  * Tillögur að nýjum félagsmönnum
-  * Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
-  * Stjarnvísindakennsla í grunn- og menntaskólum landsins
-  * Staða NOT sjónaukans og stuðningur frá HÍ
-  * Staða Simons Observatory sjónaukans og tengsl við HÍ
-  * Kaup á sjónauka fyrir kennslu í HÍ
-  * Ráðstefnur á Íslandi á næstu árum
-  * Orðaskrá Stjarnvísindafélags Íslands
+  a) Tillögur að nýjum félagsmönnum
+  b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
+  c) Stjarnvísindakennsla í grunn- og menntaskólum landsins
+  d) Staða NOT sjónaukans og stuðningur frá HÍ
+  e) Staða Simons Observatory sjónaukans og tengsl við HÍ
+  f) Kaup á sjónauka fyrir kennslu í HÍ
+  g) Ráðstefnur á Íslandi á næstu árum
+  h) Orðaskrá Stjarnvísindafélags Íslands
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
@@ -157,7 +157,7 @@ KH hvað sérðu fyrir þér að gera þurfi í framtíðinni? Sunna Rós skrifa
 Lagt til að halda ráðstefnu/málþing um þetta efni. HA þakkað fyrir innslag sitt og upplýsandi kynningu á stöðu mála í grunnskólum og framhaldsskólum.
 
   (d) Staða NOT sjónaukans og stuðningur frá HÍ
-  
+
 Sama og undanfarinn ár NOT-forstöðumaður rekinn  Finnar og danir eiga NOT núna. Erfitt að fjármagna sjónaukann. Félagsstofnun..
 
   (e) Staða Simons Observatory sjónaukans og tengsl við HÍ
