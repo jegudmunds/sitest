@@ -1,9 +1,9 @@
 ---
-title: Hulinn heimur — leyndardómar hulduorku og hulduefnis
-summary: Andrés Alejandro Plazas Malagón heldur erindi í Húsi Vigdísar 16. september 2024 klukkan 20:00
+title: Tíu grundvallarhugmyndir eðlisfræðinnar
+summary: A. Zee heldur erindi í Húsi Vigdísar 10. desember 2024 klukkan 20:00
 tags:
   - Fyrirlestur
-date: '2024-09-02T00:00:00Z'
+date: '2025-01-013T00:00:00Z'
 
 image:
   caption: Andrés Malagón
