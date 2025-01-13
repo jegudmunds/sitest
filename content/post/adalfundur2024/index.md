@@ -9,10 +9,10 @@ summary: Aðalfundur félagsins haldinn í Tæknigarði (HÍ)
 projects: []
 
 # Date published
-date: '2025-1-13T00:00:00Z'
+date: '2025-1-12T00:00:00Z'
 
 # Date updated
-lastmod: '2025-1-13T00:00:00Z'
+lastmod: '2025-1-12T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -57,23 +57,7 @@ Zoom: https://eu01web.zoom.us/j/68575058693
 5. Kosning stjórnarmanna
 6. Kosning tveggja skoðunarmanna reikninga til eins árs
 7. Ákvörðun árgjalds
-8. Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn):
-  
-  a) Tillögur að nýjum félagsmönnum
-
-  b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
-
-  c) Stjarnvísindakennsla í grunn- og menntaskólum landsins
-
-  d) Staða NOT sjónaukans og stuðningur frá HÍ
-
-  e) Staða Simons Observatory sjónaukans og tengsl við HÍ
-
-  f) Kaup á sjónauka fyrir kennslu í HÍ
-
-  g) Ráðstefnur á Íslandi á næstu árum
-  
-  h) Orðaskrá Stjarnvísindafélags Íslands
+8. Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn): a) Tillögur að nýjum félagsmönnum, b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu, c) Stjarnvísindakennsla í grunn- og menntaskólum landsins, d) Staða NOT sjónaukans og stuðningur frá HÍ, e) Staða Simons Observatory sjónaukans og tengsl við HÍ, f) Kaup á sjónauka fyrir kennslu í HÍ, g) Ráðstefnur á Íslandi á næstu áru, h) Orðaskrá Stjarnvísindafélags Íslands
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
 
@@ -130,7 +114,7 @@ Skoðunarmenn reikninga voru GJ og Þorsteinn Þorsteinsson. Guðlaugur sat fund
 
 #### (a) Tillögur að nýjum félagsmönnum
 
-JEG byrjaði á að nefna fjóra einstaklinga sem mætti bjóða í félagið: Matthías Baldursson, PhD nemi, Benedikt Stefánsson, Institute of Astronomy í Belgíu. Anna í stjörnuskoðunarfélaginu í Lundi: Viktor H. Jónsson, Kristinn Vernharðsson og Þóra K. GJ benti á Helga F.  Rúnarsson sem vinnur hjá CCP. Andri Grétarson. Fundarmenn samþykktu að bjóða mætti þessum einstaklingum í félagið. GB lagði til frænda sinn, Björn Bergsson sem er í Florída. KH lagði til að Páll Jakobsson og Jesus skimuðu eftir vænlegum félögum í Stjarnvísindafélagið.
+JEG byrjaði á að nefna nokkra einstaklinga sem mætti bjóða í félagið: Matthías Baldursson, PhD nemi; Benedikt Stefánsson, Institute of Astronomy við KU Leuven; Viktor H. Jónsson, Kristinn Vernharðsson og Þóru Kristínu Karlsdóttur allt fyrrum masters nema í stjörnufræði við Háskólann í Lundi. GJ benti á Helga F. Rúnarsson sem vinnur hjá CCP. Einnig var Andri Grétarson nefndur á nafn. Fundarmenn samþykktu að bjóða mætti þessum einstaklingum í félagið. GB lagði til frænda sinn, Björn Bergsson sem er í Florída. KH lagði til að Páll Jakobsson og Jesus skimuðu eftir vænlegum félögum í Stjarnvísindafélagið.
 
 #### (b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
 
@@ -174,7 +158,7 @@ Sama og undanfarinn ár NOT-forstöðumaður rekinn  Finnar og danir eiga NOT n�
 
 #### (e) Staða Simons Observatory sjónaukans og tengsl við HÍ
 
-Fá JEG til þess að fylla hér upp í en hann þekkir þetta viðfangsefni vel…
+Vísindamenn við Háskóla Íslands taka þátt í Simons Observatory vísindasamstarfinu. Meira um þau mál síðar.
 
 #### (f) Kaup á sjónauka fyrir kennslu í HÍ
 
@@ -182,8 +166,8 @@ JEG sagði að búið væri að senda inn umsókn um sjónaukakaup upp á 1,5 mi
 
 #### (g) Ráðstefnur á Íslandi á næstu árum
 
-Ráðstefnur Stjörnulíffræðiráðstefna næsta sumar, sennilega í júlí 2025. SHB sagði frá ASTROACCEL í Hörpu 20. Október 2025. GB sagði frá væntanlega háloftaráðstefnu Maí 2026. GJ sagði frá Fanfest(??), spilaleikjaframleiðandi, þing um tölvuleikinn CCP.
+Ráðstefnur Stjörnulíffræðiráðstefna næsta sumar, sennilega í júlí 2025. SHB sagði frá ASTROACCEL í Hörpu 20. Október 2025. GB sagði frá væntanlega háloftaráðstefnu Maí 2026. GJ sagði frá Eve Online Fanfest, spilaleikjaframleiðandi, þing um tölvuleikinn CCP.
 
-(h) Orðaskrá Stjarnvísindafélags Íslands
+#### (h) Orðaskrá Stjarnvísindafélags Íslands
 
 Fundi slitið kl. 17:05.
