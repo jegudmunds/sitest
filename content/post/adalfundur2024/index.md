@@ -58,13 +58,21 @@ Zoom: https://eu01web.zoom.us/j/68575058693
 6. Kosning tveggja skoðunarmanna reikninga til eins árs
 7. Ákvörðun árgjalds
 8. Önnur mál (félagsmönnum er frjálst að leggja til umræðuefni eða bera mál undir félagsmenn):
+  
   a) Tillögur að nýjum félagsmönnum
+
   b) Viðtöl við raunvísindamenn, YouTube og uppfærsla á vefsíðu
+
   c) Stjarnvísindakennsla í grunn- og menntaskólum landsins
+
   d) Staða NOT sjónaukans og stuðningur frá HÍ
+
   e) Staða Simons Observatory sjónaukans og tengsl við HÍ
+
   f) Kaup á sjónauka fyrir kennslu í HÍ
+
   g) Ráðstefnur á Íslandi á næstu árum
+  
   h) Orðaskrá Stjarnvísindafélags Íslands
 
 ## Fundargerð (rituð af Snævarri Guðmundssyni)
