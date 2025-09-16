@@ -25,11 +25,11 @@ slides: ""
 ### Sólmyrkvi staðfestir afstæðiskenninguna
 
 _Sjörnuskoðunarfélag Seltjarnarness og Stjarnvísindafélag Íslands ásamt Háskóla íslands kynna:_
-Sólmyrkvi staðfestir afstæðiskenninguna. Matthias Baldurson Harksen, doktorsnemand við Háskóla Íslands.
+Sólmyrkvi staðfestir afstæðiskenninguna. Matthias Baldurson Harksen, doktorsnemand við Háskóla Íslands, heldur fyrirlestur fyrir almenning.
 
 Staður og stund: Hús Vigdísar klukkan 20:00 fimmtudaginn 23. október.
 
-Erindið verður haldið á ensku.
+Erindið verður á íslensku.
 
 Öll velkomin!
 
