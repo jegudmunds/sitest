@@ -3,7 +3,7 @@ title: Sólmyrkvi staðfestir afstæðiskenninguna
 summary: Matthias Baldurson Harksen heldur erindi í Húsi Vigdísar 23. október 2025 klukkan 20:00
 tags:
   - Fyrirlestur
-date: '2025-01-01T00:00:01Z'
+date: '2025-09-15T00:00:01Z'
 
 image:
   caption: M. Harksen
