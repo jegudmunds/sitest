@@ -50,7 +50,7 @@ print('hello')
 17.12.2020
 
 
-### Mættir (☨ á fjarfundi)
+### Mættir
 
 Sigríður Kristjánsdóttir
 
@@ -75,7 +75,7 @@ Kári Helgason (fundarstjóri og formaður)
 Snævarr Guðmundsson (ritari)
 
 
-### Skýrsla stjórnar
+### Fundargerð
 
 1.  KH setti aðalfundinn, þann 17.12.2020. Zoom-fundur. 
 2.  Hlutverk Stjarnvísindafélagsins. KH: fór fyrst í gegnum hlutverk SÍ. Félagsfundur í október. Að gefa út fréttabréf er orðið gamaldags. EHG: lagði til að þetta yrði tekið fyrir á félagsfundi.
