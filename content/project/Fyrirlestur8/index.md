@@ -1,5 +1,5 @@
 ---
-title: Tíu grundvallarhugmyndir eðlisfræðinnar
+title: Kosmísk dögun afhjúpuð; leitin að fyrstu stjörnunum og vetrarbrautunum
 summary: Kasper Elm Heintz heldur erindi í Húsi Vigdísar 4. nóvember 2025 klukkan 20:00
 tags:
   - Fyrirlestur
